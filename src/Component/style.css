@@ -1,0 +1,34 @@
+.Phead{
+    color: red;
+    text-align: center;
+    font-size: 300%;
+    color: white;
+    background-color: rgb(245, 142, 8);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.child{
+    font-family: cursive;
+    font-size: 150%;
+    color: white;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.para{
+font-size: 150%;
+font-family: cursive;
+color: rgb(44, 10, 240);
+text-align: center;
+/* background-color: rgb(245, 142, 8); */
+}
+.input{
+    height: 8vh;
+    font-size: 150%;
+    color: white;
+    background-color: rgb(44, 10, 240);;
+    align-items: center;
+    text-align: center;
+} 
